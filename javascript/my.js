@@ -47,7 +47,7 @@ var variable = undefined;
 var numm = 10;
 console.log(typeof numm);
 
-var ito = '智宏';
+var ito = '伊東';
 console.log((typeof ito));
 alert(typeof ito);
 
